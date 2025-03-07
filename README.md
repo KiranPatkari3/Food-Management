@@ -18,3 +18,13 @@ Database: MySQL
 Tools Used: Eclipse, MySQL Workbench
 
 📸 Screenshots:
+### 🔹 Home Page
+![Home Page] (https://github.com/KiranPatkari3/Food-Management/blob/main/Home%20page.png))
+
+### 🔹 Add Food Page
+![Add Food] (https://github.com/KiranPatkari3/Food-Management/blob/main/Add%20Food%20Page.png)
+
+### 🔹 Edit Page
+![Edit Food] (https://github.com/KiranPatkari3/Food-Management/blob/main/Edit%20Page.png))
+
+
