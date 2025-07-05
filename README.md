@@ -1,30 +1,36 @@
 **Project Name: Food Management System**
 
 **Overview:**
-The Food Management System is a Java-based web application designed to manage food items efficiently. It allows users to add, update, delete, and view food items with details like name, price, image, and ratings. The system is built using JSP, Servlets, JDBC, and MySQL for database management.
+A full-featured Java-based web application designed to manage food items efficiently. This system allows administrators to manage food inventory, and end-users to browse items, add them to the cart, and rate them with an interactive star system.
+Built with JSP, Servlets, JDBC, MySQL, and Bootstrap — ideal for learning Java EE fundamentals.
 
 ✨ Features:
-- Add, Update, Delete, and View food items
-- Database Integration using MySQL 
-- Dynamic Web Interface with JSP & Servlets 
-- Secure Connection Handling via JDBC 
-- Smooth User Experience with form validation 
-
+- **Admin Panel**:
+   Add, update, delete food items
+- **User Interface**:
+   View food items in a card layout
+   Add items to the cart
+   Submit star ratings (1-5 stars)
+  
+✨ Bootstrap UI with FontAwesome icons
+-  Secure login & role-based session handling
+-  Flash messages and form validation
+  
 ⚙️ Tech Stack:
-
-- Frontend: HTML, CSS, JSP
+- Frontend: HTML, CSS, JSP, Bootstrap  
 - Backend: Java (Servlets, JDBC)
 - Database: MySQL
 - Tools Used: Eclipse, MySQL Workbench
 
-📸 Screenshots:
-### 🔹 Home Page
-[Home Page] (https://github.com/KiranPatkari3/Food-Management/blob/main/Home%20page.png))
+**Roles & Access**
+ Admin:
+ Add, edit, and delete food items
+ User:
+ View food menu
+ Add to cart
+ Submit ratings
 
-### 🔹 Add Food Page
-[Add Food] (https://github.com/KiranPatkari3/Food-Management/blob/main/Add%20Food%20Page.png)
-
-### 🔹 Edit Page
-[Edit Food] (https://github.com/KiranPatkari3/Food-Management/blob/main/Edit%20Page.png))
-
+Author
+Kiran Patkari
+GitHub: @KiranPatkari3
 
